@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a discord bot + website for [Anticheat P.D.](https://discord.gg/Bwve6RK), where we manually review user-submitted Valorant cheater reports, and forward them to Riot.
 
-- 🌱 I’m currently learning **SvelteKit, Typescript & C++**
+- 🌱 I’m currently learning **SvelteKit, Typescript, C++ & Machine Learning**
 
 - 📫 How to reach me **baldo@supernovaa.dev**
 
