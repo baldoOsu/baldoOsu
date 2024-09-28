@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a discord bot for [Anticheat P.D.](https://discord.gg/Bwve6RK), where we disrupt VALORANT cheat vendors' activities.
 
-- 🌱 I’m currently learning **SvelteKit, Machine Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 Reach me via **baldo@supernovaa.dev**
 
