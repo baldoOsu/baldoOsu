@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm baldo</h1>
 <h3 align="center">An enthusiastic software developer from Denmark</h3>
 
-- 🔭 I’m currently working on a discord bot and an AI system for [Anticheat P.D.](https://discord.gg/Bwve6RK), where we disrupt VALORANT cheat vendors' activities.
+- 🔭 I’m currently working on a discord bot and an AI system for [Anticheat P.D.](https://discord.gg/Bwve6RK), where we disrupt VALORANT cheat vendors' activities
 
 - 🧠 Software Engineer at [Insights.gg](https://insights.gg/), a video game recording program
 
